@@ -14,7 +14,7 @@ I'm a passionate software developer with a knack for building automation tools, 
 - Frameworks and programming languages
 
 ##  Let's Connect🤝
-https:\\x.com/tesladagreat
+https://x.com/tesladagreat
 
 Thanks for stopping by! I'm always open to collaboration and networking opportunities.
 -++
