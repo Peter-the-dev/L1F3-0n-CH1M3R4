@@ -2,19 +2,18 @@
 
 I'm a passionate software developer with a knack for building automation tools, APIs, and scalable solutions. Welcome to my GitHub profile!
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 - **Languages:** Python, Java, C, MQL5, Pinescript
-- **Frameworks & Libraries:** Django, Flask, React
 - **Tools & Platforms:** Git, Docker, Kubernetes
 - **Areas of Interest:** API development, web automation, data analysis, machine learning, Web3, Algorithmic trading
 
-## 🌱 Currently Learning
+## Currently Learning🌱 
 
 - Cloud computing & DevOps practices
 - Frameworks and programming languages
 
-## 🤝 Let's Connect
+##  Let's Connect🤝
 
 
 Thanks for stopping by! I'm always open to collaboration and networking opportunities.
