@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @L1F3-0n-CH1M3R4
-- 👀 I’m interested in web design.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web design project you need assistance on.
-- 📫 How to reach me https://linktr.ee/L1F3_ON_CH1M3R4.
+# Hi there, I'm L1F3-0n-CH1M3R4👋
 
-<!---
-L1F3-0n-CH1M3R4/L1F3-0n-CH1M3R4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-  --->
+I'm a passionate software developer with a knack for building automation tools, APIs, and scalable solutions. Welcome to my GitHub profile!
+
+## 🔧 Skills & Technologies
+
+- **Languages:** Python, Java, C, MQL5, Pinescript
+- **Frameworks & Libraries:** Django, Flask, React
+- **Tools & Platforms:** Git, Docker, Kubernetes
+- **Areas of Interest:** API development, web automation, data analysis, machine learning, Web3, Algorithmic trading
+
+## 🌱 Currently Learning
+
+- Cloud computing & DevOps practices
+- Frameworks and programming languages
+
+## 🤝 Let's Connect
+
+
+Thanks for stopping by! I'm always open to collaboration and networking opportunities.
+-++
