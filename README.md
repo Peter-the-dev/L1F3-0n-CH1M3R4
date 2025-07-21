@@ -1,6 +1,6 @@
-# Hi there, I'm L1F3-0n-CH1M3R4👋
+# Hi there, I'm Peter
 
-I'm a software developer with a knack for building automation tools, APIs, and scalable solutions. Welcome to my GitHub profile
+I'm an aspiring Software Developer with an interest for building automated systems, and. Welcome to my GitHub profile
 
 ## Skills & Technologies
 
@@ -10,11 +10,8 @@ I'm a software developer with a knack for building automation tools, APIs, and s
 
 ## Currently Learning
 
-- Cloud computing & DevOps practices
-- Frameworks and programming languages
+- Frameworks and programming languages.
+- Machine learning. 
 
-##  Let's Connect
-https://x.com/tesladagreat
-
-Thanks for stopping by! I'm always open to collaboration and networking opportunities.
+I'm always open to collaboration.
 -++
