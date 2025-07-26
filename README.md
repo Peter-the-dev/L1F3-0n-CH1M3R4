@@ -1,6 +1,6 @@
 # Hi there, I'm Peter
 
-I'm a Computer Science major and an aspiring Software Developer. I love building efficient software, currently exploring the world of machine learning.
+I'm a Computer Science major and a Software Developer. I love building efficient software, currently exploring the world of machine learning.
 
 
 ## Skills & Technologies
