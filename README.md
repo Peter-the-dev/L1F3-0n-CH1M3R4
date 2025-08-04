@@ -5,8 +5,8 @@ I'm a Computer Science major and a Software Developer. I love building efficient
 
 ## Skills & Technologies
 
-- **Languages:** Python, Java, C, MQL5, Pinescript
-- **Tools & Platforms:** Git, Docker, Kubernetes
+- **Languages:** Python, C, C++, MQL5, Pinescript.
+- **Tools & Platforms:** Git, Docker, Kubernetes.
 - **Areas of Interest:** API development, web automation, data analysis, machine learning, Algorithmic trading.  
 
 ---
